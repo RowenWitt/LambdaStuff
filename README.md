@@ -1,4 +1,4 @@
 # LambdaStuff
 - Iowa house Price Prediction NB
 
-- Will go back and do a V2 when bored
+- (9/12/21) Will go back and do a V2 when bored
